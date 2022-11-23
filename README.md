@@ -1,1 +1,1 @@
-# grit
+Invalid input.
